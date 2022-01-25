@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 能输中文吗
 
 You can use the [editor on GitHub](https://github.com/Monssster/recycle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
